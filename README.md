@@ -1,4 +1,4 @@
 # movie-ranking-project SIMPLE HTML5 PROJECT 
 
 • This website is live at 👇 
-https://manishkumar9608github.github.io/movie-ranking-project/
+https://manish9608mk.github.io/movie-ranking-project/
